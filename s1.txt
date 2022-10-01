@@ -10,6 +10,7 @@ git commit -m "first commit" // or just git commit and press enter and press i t
 and enter the commit statement and press esc and press shit and semicolon and enter wq 
 enter git push // to make changes in the git repositry
 ** note enter "git status" to check the status of the files added to the git
-
-
- 
+ /////////////////////////////////////////
+According to me we can add a person to the git rep as collaborator and 
+->> we that person can do changes to our rep by cloning in gitbash and simply git push command //
+may be this is partially right 
