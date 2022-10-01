@@ -8,5 +8,8 @@ notepad a1.txt
 git add a1.txt
 git commit -m "first commit" // or just git commit and press enter and press i to insert
 and enter the commit statement and press esc and press shit and semicolon and enter wq 
+enter git push // to make changes in the git repositry
+** note enter "git status" to check the status of the files added to the git
+
 
  
