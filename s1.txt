@@ -1,0 +1,12 @@
+hi there git commands
+git init
+mkdir file_name
+cd file_name
+git clone http_link
+cd file_name fetched from git
+notepad a1.txt
+git add a1.txt
+git commit -m "first commit" // or just git commit and press enter and press i to insert
+and enter the commit statement and press esc and press shit and semicolon and enter wq 
+
+ 
